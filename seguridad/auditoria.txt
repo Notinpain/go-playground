@@ -1,0 +1,30 @@
+2026/02/27 12:49:56 ========== INICIO DE AUDITORÍA ==========
+2026/02/27 12:49:56 ID:1 ->[1] Usuario: Victor   | Riesgo:  2 | Categoría: Seguro         
+2026/02/27 12:49:56 ID:2 ->[24] Usuario: Miguel   | Riesgo:  5 | Categoría: Advertencia    
+2026/02/27 12:49:56 ID:3 ->[100] Usuario: Seyi     | Riesgo:  7 | Categoría: Advertencia    
+2026/02/27 12:49:56 ID:4 ->[7] Usuario: Ruben    | Riesgo:  9 | Categoría: ATAQUE CRÍTICO 
+2026/02/27 12:49:56  [ALERTA], Usuario Ruben ha detectado un ataque crítico con nivel de riesgo: 9
+2026/02/27 12:49:56 ID:5 ->[52] Usuario: Michel   | Riesgo: 10 | Categoría: ATAQUE CRÍTICO 
+2026/02/27 12:49:56  [ALERTA], Usuario Michel ha detectado un ataque crítico con nivel de riesgo: 10
+2026/02/27 12:49:56 ========== FIN DE AUDITORÍA ==========
+2026/02/27 12:49:56 
+2026/02/27 12:54:46 ========== INICIO DE AUDITORÍA ==========
+2026/02/27 12:54:46 ID:1 ->[1] Usuario: Victor   | Riesgo:  2 | Categoría: Seguro         
+2026/02/27 12:54:46 ID:2 ->[24] Usuario: Miguel   | Riesgo:  5 | Categoría: Advertencia    
+2026/02/27 12:54:46 ID:3 ->[100] Usuario: Seyi     | Riesgo:  7 | Categoría: Advertencia    
+2026/02/27 12:54:46 ID:4 ->[7] Usuario: Ruben    | Riesgo:  9 | Categoría: ATAQUE CRÍTICO 
+2026/02/27 12:54:46  [ALERTA], Usuario Ruben ha detectado un ataque crítico con nivel de riesgo: 9
+2026/02/27 12:54:46 ID:5 ->[52] Usuario: Michel   | Riesgo: 10 | Categoría: ATAQUE CRÍTICO 
+2026/02/27 12:54:46  [ALERTA], Usuario Michel ha detectado un ataque crítico con nivel de riesgo: 10
+2026/02/27 12:54:46 ========== FIN DE AUDITORÍA ==========
+2026/02/27 12:54:46 
+2026/02/27 12:55:46 ========== INICIO DE AUDITORÍA ==========
+2026/02/27 12:55:46 ID:1 ->[1] Usuario: Victor   | Riesgo: -100 | Categoría: Desconocido    
+2026/02/27 12:55:46 ID:2 ->[24] Usuario: Miguel   | Riesgo:  5 | Categoría: Advertencia    
+2026/02/27 12:55:46 ID:3 ->[100] Usuario: Seyi     | Riesgo:  7 | Categoría: Advertencia    
+2026/02/27 12:55:46 ID:4 ->[7] Usuario: Ruben    | Riesgo:  9 | Categoría: ATAQUE CRÍTICO 
+2026/02/27 12:55:46  [ALERTA], Usuario Ruben ha detectado un ataque crítico con nivel de riesgo: 9
+2026/02/27 12:55:46 ID:5 ->[52] Usuario: Michel   | Riesgo: 10 | Categoría: ATAQUE CRÍTICO 
+2026/02/27 12:55:46  [ALERTA], Usuario Michel ha detectado un ataque crítico con nivel de riesgo: 10
+2026/02/27 12:55:46 ========== FIN DE AUDITORÍA ==========
+2026/02/27 12:55:46 
